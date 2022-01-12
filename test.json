@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": 15,
+            "quantity": 1
+        },
+        {
+            "id": 11,
+            "quantity": 2
+        }
+    ],
+    "type_payment": "card",
+    "user_addresses_id": 1
+}
